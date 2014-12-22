@@ -35,7 +35,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A GODLY SERMON preached at Paules Croſſe the 31. day of October 1591.By VVilliam Fisher, Maſter and 
+
 #####Body#####
 Malachi 3. verſe 16, 17.16 Then ſpake they that feared the Lord, euery one to his Neighbour, and the
     _ 1. Pars.
@@ -79,32 +79,28 @@ There are 98 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|5||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|6||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|1||
-|32.|__textClass__|1||
-|33.|__title__|3||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|6||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|1||
+|28.|__textClass__|1||
+|29.|__title__|3||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
@@ -112,19 +108,17 @@ There are 98 **ommitted** fragments!
 |No|element name|occ|attributes|
 |---|---|---|---|
 |1.|__bibl__|2||
-|2.|__body__|1||
-|3.|__closer__|1||
-|4.|__desc__|98||
-|5.|__div__|6| @__type__ (6) : title_page (1), sermon (1), part (2), subpart (2)  •  @__n__ (4) : 1 (1), 2 (2), 3 (1)|
-|6.|__epigraph__|1||
-|7.|__figure__|1||
-|8.|__front__|1||
-|9.|__g__|456| @__ref__ (456) : char:EOLhyphen (336), char:cmbAbbrStroke (62), char:punc (50), char:EOLunhyphen (8)|
-|10.|__gap__|98| @__reason__ (98) : illegible (97), foreign (1)  •  @__resp__ (97) : #APEX (94), #OXF (3)  •  @__extent__ (97) : 1 word (2), 1+ letters (1), 2 letters (21), 1 span (22), 1 letter (51)|
-|11.|__head__|4||
-|12.|__hi__|383| @__rend__ (10) : sup (10)|
-|13.|__p__|151||
-|14.|__pb__|65| @__facs__ (65) : tcp:18112:1 (1), tcp:18112:2 (2), tcp:18112:3 (2), tcp:18112:4 (2), tcp:18112:5 (2), tcp:18112:6 (2), tcp:18112:7 (2), tcp:18112:8 (2), tcp:18112:9 (2), tcp:18112:10 (2), tcp:18112:11 (2), tcp:18112:12 (2), tcp:18112:13 (2), tcp:18112:14 (2), tcp:18112:15 (2), tcp:18112:16 (2), tcp:18112:17 (2), tcp:18112:18 (2), tcp:18112:19 (2), tcp:18112:20 (2), tcp:18112:21 (2), tcp:18112:22 (2), tcp:18112:23 (2), tcp:18112:24 (2), tcp:18112:25 (2), tcp:18112:26 (2), tcp:18112:27 (2), tcp:18112:28 (2), tcp:18112:29 (2), tcp:18112:30 (2), tcp:18112:31 (2), tcp:18112:32 (2), tcp:18112:33 (2)  •  @__rendition__ (4) : simple:additions (4)|
-|15.|__q__|3||
-|16.|__seg__|1| @__rend__ (1) : decorInit (1)|
-|17.|__trailer__|1||
+|2.|__closer__|1||
+|3.|__desc__|98||
+|4.|__div__|6| @__type__ (6) : title_page (1), sermon (1), part (2), subpart (2)  •  @__n__ (4) : 1 (1), 2 (2), 3 (1)|
+|5.|__epigraph__|1||
+|6.|__figure__|1||
+|7.|__g__|456| @__ref__ (456) : char:EOLhyphen (336), char:cmbAbbrStroke (62), char:punc (50), char:EOLunhyphen (8)|
+|8.|__gap__|98| @__reason__ (98) : illegible (97), foreign (1)  •  @__resp__ (97) : #APEX (94), #OXF (3)  •  @__extent__ (97) : 1 word (2), 1+ letters (1), 2 letters (21), 1 span (22), 1 letter (51)|
+|9.|__head__|4||
+|10.|__hi__|383| @__rend__ (10) : sup (10)|
+|11.|__p__|151||
+|12.|__pb__|65| @__facs__ (65) : tcp:18112:1 (1), tcp:18112:2 (2), tcp:18112:3 (2), tcp:18112:4 (2), tcp:18112:5 (2), tcp:18112:6 (2), tcp:18112:7 (2), tcp:18112:8 (2), tcp:18112:9 (2), tcp:18112:10 (2), tcp:18112:11 (2), tcp:18112:12 (2), tcp:18112:13 (2), tcp:18112:14 (2), tcp:18112:15 (2), tcp:18112:16 (2), tcp:18112:17 (2), tcp:18112:18 (2), tcp:18112:19 (2), tcp:18112:20 (2), tcp:18112:21 (2), tcp:18112:22 (2), tcp:18112:23 (2), tcp:18112:24 (2), tcp:18112:25 (2), tcp:18112:26 (2), tcp:18112:27 (2), tcp:18112:28 (2), tcp:18112:29 (2), tcp:18112:30 (2), tcp:18112:31 (2), tcp:18112:32 (2), tcp:18112:33 (2)  •  @__rendition__ (4) : simple:additions (4)|
+|13.|__q__|3||
+|14.|__seg__|1| @__rend__ (1) : decorInit (1)|
+|15.|__trailer__|1||
